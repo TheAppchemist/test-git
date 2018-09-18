@@ -1,4 +1,4 @@
-Hello world....
+Hello world.... Bye Bye World
 This is my project
 
 Weed is legal 
@@ -7,5 +7,5 @@ More content here
 
 Work on new features
 
-Login
+Login, Login screen looks bad
 Sign Up etc
