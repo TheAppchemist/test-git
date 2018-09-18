@@ -7,5 +7,5 @@ More content here
 
 Work on new features
 
-Login
+Login looks good
 Sign Up etc
