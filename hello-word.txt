@@ -4,3 +4,8 @@ This is my project
 Weed is legal 
 
 More content here
+
+Work on new features
+
+Login
+Sign Up etc
